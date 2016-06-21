@@ -2,4 +2,82 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Spacings-->
+    <!--Verical-->
+    <dimen name="spacing_8">8dp</dimen>
+    <dimen name="spacing_16">16dp</dimen>
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_32">32dp</dimen>
+    <dimen name="spacing_40">40dp</dimen>
+    <dimen name="spacing_48">48dp</dimen>
+    <dimen name="spacing_56">56dp</dimen>
+    <dimen name="spacing_64">64dp</dimen>
+
+    <!--Margins-->
+    <dimen name="margins_8">8dp</dimen>
+    <dimen name="margins_16">16dp</dimen>
+    <dimen name="margins_24">24dp</dimen>
+    <dimen name="margins_32">32dp</dimen>
+    <dimen name="margins_40">40dp</dimen>
+    <dimen name="margins_48">48dp</dimen>
+    <dimen name="margins_56">56dp</dimen>
+    <dimen name="margins_64">64dp</dimen>
+
+    <!--Gutters-->
+    <dimen name="gutters_8">8dp</dimen>
+    <dimen name="gutters_16">16dp</dimen>
+    <dimen name="gutters_24">24dp</dimen>
+    <dimen name="gutters_32">32dp</dimen>
+    <dimen name="gutters_40">40dp</dimen>
+    <dimen name="gutters_48">48dp</dimen>
+    <dimen name="gutters_56">56dp</dimen>
+    <dimen name="gutters_64">64dp</dimen>
+
+    <!--Space between content areas-->
+    <dimen name="space_between_content_8">8dp</dimen>
+    <dimen name="space_between_content_16">16dp</dimen>
+    <dimen name="space_between_content_24">24dp</dimen>
+    <dimen name="space_between_content_32">32dp</dimen>
+    <dimen name="space_between_content_40">40dp</dimen>
+    <dimen name="space_between_content_48">48dp</dimen>
+
+
+    <!--Screen Edge Margins-->
+    <dimen name="screen_edge_margin_16">16dp</dimen>
+    <dimen name="screen_edge_margin_48">48dp</dimen>
+    <dimen name="screen_edge_margin_72">72dp</dimen>
+
+    <!--List Items-->
+    <dimen name="list_items_small">32dp</dimen>
+    <dimen name="list_items_medium">48dp</dimen>
+    <dimen name="list_items_big">64dp</dimen>
+
+    <!--Titles-->
+    <dimen name="title_size">72dp</dimen>
+    <dimen name="subtitle_size">48dp</dimen>
+
+    <!--Navigation margin-->
+    <dimen name="navigation_margin">56dp</dimen>
+
+    <!--Menu-->
+    <dimen name="menu_item">8dp</dimen>
+    <dimen name="sub_menu_item">9dp</dimen>
+
+    <!--Refresh indicators-->
+    <dimen name="refresh_indicator_8">8dp</dimen>
+
+    <!--Font size-->
+    <dimen name="font_size_small">16sp</dimen>
+    <dimen name="font_size_normal">32sp</dimen>
+    <dimen name="font_size_big">56sp</dimen>
+
+    <!--Icon-->
+    <dimen name="icon_4">4dp</dimen>
+    <dimen name="icon_8">8dp</dimen>
+    <dimen name="icon_16">16dp</dimen>
+    <dimen name="icon_24">24dp</dimen>
+
+
+
 </resources>
