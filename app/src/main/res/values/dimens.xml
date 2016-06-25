@@ -13,26 +13,28 @@
     <dimen name="spacing_48">48dp</dimen>
     <dimen name="spacing_56">56dp</dimen>
     <dimen name="spacing_64">64dp</dimen>
+    <dimen name="spacing_72">72dp</dimen>
 
     <!--Margins-->
-    <dimen name="margins_8">8dp</dimen>
-    <dimen name="margins_16">16dp</dimen>
-    <dimen name="margins_24">24dp</dimen>
-    <dimen name="margins_32">32dp</dimen>
-    <dimen name="margins_40">40dp</dimen>
-    <dimen name="margins_48">48dp</dimen>
-    <dimen name="margins_56">56dp</dimen>
-    <dimen name="margins_64">64dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_56">56dp</dimen>
+    <dimen name="margin_64">64dp</dimen>
+    <dimen name="margin_72">72dp</dimen>
 
     <!--Gutters-->
-    <dimen name="gutters_8">8dp</dimen>
-    <dimen name="gutters_16">16dp</dimen>
-    <dimen name="gutters_24">24dp</dimen>
-    <dimen name="gutters_32">32dp</dimen>
-    <dimen name="gutters_40">40dp</dimen>
-    <dimen name="gutters_48">48dp</dimen>
-    <dimen name="gutters_56">56dp</dimen>
-    <dimen name="gutters_64">64dp</dimen>
+    <dimen name="gutter_8">8dp</dimen>
+    <dimen name="gutter_16">16dp</dimen>
+    <dimen name="gutter_24">24dp</dimen>
+    <dimen name="gutter_32">32dp</dimen>
+    <dimen name="gutter_40">40dp</dimen>
+    <dimen name="gutter_48">48dp</dimen>
+    <dimen name="gutter_56">56dp</dimen>
+    <dimen name="gutter_64">64dp</dimen>
 
     <!--Space between content areas-->
     <dimen name="space_between_content_8">8dp</dimen>
@@ -51,7 +53,7 @@
     <!--List Items-->
     <dimen name="list_items_small">32dp</dimen>
     <dimen name="list_items_medium">48dp</dimen>
-    <dimen name="list_items_big">64dp</dimen>
+    <dimen name="list_items_big">72dp</dimen>
 
     <!--Titles-->
     <dimen name="title_size">72dp</dimen>
@@ -70,14 +72,17 @@
     <!--Font size-->
     <dimen name="font_size_small">16sp</dimen>
     <dimen name="font_size_normal">32sp</dimen>
-    <dimen name="font_size_big">56sp</dimen>
+    <dimen name="font_size_big">40sp</dimen>
+
+    <!--Header-->
+    <dimen name="head_results_bar">112dp</dimen>
 
     <!--Icon-->
     <dimen name="icon_4">4dp</dimen>
     <dimen name="icon_8">8dp</dimen>
     <dimen name="icon_16">16dp</dimen>
     <dimen name="icon_24">24dp</dimen>
-
+    <dimen name="line_size">2dp</dimen>
 
 
 </resources>
