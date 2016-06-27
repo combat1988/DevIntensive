@@ -44,11 +44,6 @@ local.properties
 .navigation
 .gradle/
 .idea/
-app/libs/
-app/src/main/java/com/softdesign/devintensive/data/
-app/src/main/java/com/softdesign/devintensive/ui/fragments/
-app/src/main/java/com/softdesign/devintensive/utils/
-app/src/main/res/drawable/
 gitignore
 gradle.properties
 gradlew
